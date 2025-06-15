@@ -1,0 +1,31 @@
+h1{
+    color:rgb(16, 38, 204);
+    font-family:sans-serif;
+}
+
+p{
+    color:rgb(54, 6, 129);
+     
+}
+
+ul{
+    List-Style-image:url(Images/pointer-icon.png);
+}
+
+ol{
+   List-Style-type:Upper-roman;
+}
+
+#menu-bar a{
+    text-decoration:none;
+   background-color: aquamarine;
+   font-family:Helvetica, sans-serif;
+}
+
+#menu-bar a:hover{
+
+    color:#ffffff;
+    background-color: aqua;  
+}
+
+
